@@ -1,3 +1,7 @@
+
+https://github.com/user-attachments/assets/10ba0603-bc4c-437a-afd0-d5a62b94886b
+
+https://github.com/user-attachments/assets/ff72cf51-ec02-4348-85bf-e1f293bbb565
 # 🎥 RBX Virtual Camera Bridge
 
 Sistema experimental que conecta o Roblox a uma webcam virtual do sistema operacional, permitindo que avatares e ambientes do jogo sejam utilizados como fonte de câmera em aplicações como OBS, Discord e outras plataformas compatíveis.
@@ -24,6 +28,16 @@ O objetivo do projeto é permitir que personagens e ambientes de jogos/metaverso
 - Videochamadas
 - Experimentos em streaming
 - Integração entre jogos e aplicações externas
+
+---
+
+## 🎬 Vídeo de Demonstração
+
+> Uploading VID-20260217-WA0006 (1).mp4…
+
+
+⚠️ **Aviso:** O vídeo acima mostra uma versão anterior do projeto.  
+O código atual foi refinado e otimizado, mas a arquitetura e o funcionamento geral permanecem essencialmente os mesmos.
 
 ---
 
@@ -120,6 +134,17 @@ The system enables game avatars and environments to be used as a webcam source f
 - Video calls
 - Streaming experiments
 - Cross-platform metaverse integration
+
+---
+
+## 🎬 Demo Video
+
+> Uploading VID-20260217-WA0006 (1).mp4…
+
+
+
+⚠️ **Note:** The video above showcases a previous version of the project.  
+The current codebase has been refined and optimized, but the overall architecture and core functionality remain essentially the same.
 
 ---
 
